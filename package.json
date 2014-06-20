@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "Alex Potsides",
+    "email": "alex@achingbrain.net",
+    "url": "http://www.achingbrain.net"
+  },
+  "name": "encoder7bit",
+  "description": "A utility for dealing with bytes encoded in 7 bit chunks",
+  "keywords": [
+    "arduino",
+    "7bits"
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/achingbrain/encoder7bit"
+  }
+}
